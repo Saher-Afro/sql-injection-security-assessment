@@ -14,4 +14,4 @@ This repository contains a manual Web Application Penetration Test conducted aga
 
 ## Report
 
-📄 **[Read the Full Security Assessment Report](report/report.md)**
+📄 [Read the Full Security Assessment Report](report.md)
