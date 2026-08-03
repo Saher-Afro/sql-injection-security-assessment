@@ -13,3 +13,7 @@
 ## Lab Completed
 
 ![Solved](../screenshots/solved.png)
+
+## Report
+
+📄 [Read the Full Report](report/report.md)
