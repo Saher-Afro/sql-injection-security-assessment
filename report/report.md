@@ -33,7 +33,7 @@ The assessment was performed using manual testing techniques with **Burp Suite**
 The product filtering request was intercepted using Burp Suite Proxy.  
 The application sends the selected category through the parameter: `GET /filter?category=Gifts`
 
-![Original Request](../screenshots/request.png)
+![Original Request](../screenshots/solved.png)
 
 ---
 
